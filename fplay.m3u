@@ -1,0 +1,53 @@
+#EXTM3U
+ 
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 1
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao01_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 2
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao02_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 3
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao03_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 4
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao04_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 5
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao05_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 6
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao06_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 7
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao07_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 8
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao08_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 9
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/epzsport/thethao09_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 14
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao14_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 15
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao15_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 16
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao16_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 17
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao17_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 18
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao18_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 19
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao19_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 24
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao24_4000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🔴| FPT" tvg-logo="https://fptplay.vn/images/logo-fpt-play.png", FPT The Thao 25
+#EXTVLCOPT:http-user-agent=dovietsy
+https://vips-livecdn.fptplay.net/fnxsport/thethao25_4000.stream/chunklist.m3u8
